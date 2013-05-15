@@ -5,3 +5,10 @@
 (
 )
 
+2013-05-15T12:43:56+02:00 EMERG (0):   1 MB | Pimcore_Config::getSystemConfig() [33]: Cannot find system configuration, should be located at: /kunden/122342_12157/htdocs/dev-pim/website/var/config/system.xml
+2013-05-15T12:43:56+02:00 EMERG (0):   2 MB | Pimcore_Config::getSystemConfig() [33]: Cannot find system configuration, should be located at: /kunden/122342_12157/htdocs/dev-pim/website/var/config/system.xml
+2013-05-15T12:43:56+02:00 DEBUG (7):   2 MB | Pimcore_Model_Cache::load() [230]: Key pimcore_system_cache_write_lock doesn't exist in cache
+2013-05-15T12:43:56+02:00 DEBUG (7):   2 MB | Array
+(
+)
+
